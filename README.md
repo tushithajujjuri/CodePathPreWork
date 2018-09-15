@@ -1,8 +1,7 @@
 ## HelloWorldApp
 
 ### App Description
-This app allows you to change the color of the text view and change the color of the text. The app displays "Hello from Tushitha!" but can be changed using the change text button and the text field box on the top.It uses the keyboard input to get new string.
-  
+This app creates a simple hello page for the users to see and interact. The user can change the background color and text color of the label using the corrosponding buttons. The user can also change the label of the text by entering their custom text from the keyboard in the text space.
 
 ### App Walk-though
 
